@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: CrumpLab/OER_bookdown
+github-repo: CrumpLab/AcademicIntegrity
 description: "A collection of resources for academic integrity issues"
 ---
 
@@ -18,6 +18,12 @@ description: "A collection of resources for academic integrity issues"
 - [CUNY Academic Integrity Policy]("Resources\Academic_Integrity_Policy.pdf")
 - [Faculty Obligations for Syllabus Preparation]("Resources\F16_FacultyObligations_andSyllabus.pdf")
 - [Selling Term Papers]("Resources\110901_TermPapers_Sale.pdf")
+
+## Contributing to this resource
+
+The source code for compiling this document is in this github repository: [https://github.com/CrumpLab/AcademicIntegrity](https://github.com/CrumpLab/AcademicIntegrity)
+
+You can contribute to this resource directly by suggesting edits to the .Rmd files and submitting pull requests. You can also use the "issues" tab to leave comments and have discussions.
 
 
 
