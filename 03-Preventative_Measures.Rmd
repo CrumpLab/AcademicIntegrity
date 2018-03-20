@@ -1,0 +1,59 @@
+# Preventative Measures
+
+The following are some suggestions for preventing academic integrity issues before they start.
+
+## Make your syllabus clear
+
+1. Your syllabus must include the previously described language from the [obligations of the faculty document]("Resources\F16_FacultyObligations_andSyllabus.pdf")
+
+2. The mandatory language above does **not** prescribe how you, as the instructor, will sanction students for cheating/plagiarism. My opinion is that student expectations would be better managed by including specific langauge about how cheating/plagiarism will be handled in your course. This could be similar to a section about how late or missed assignments are dealt with. Here is some example language that I am developing for Experimental Psychology.
+
+### Cheating and Plagiarism in this course
+
+This class has a zero tolerance policy for cheating/plagiarism. If you are caught cheating and/or plagiarizing then you will receive a failing grade for this course, and a Faculty Action Report will be filed against you.
+
+You should assume that unless explictly told otherwise, that all assignments in this course are to be completed by you alone. All of your written work should be your own. Specifically, the following assignments and papers are to be completed by you alone: list assignments here. The exceptions to this rule include any group work, such as the following: list group work here.
+
+By handing in each assignment you are pledging your honor that you did not violate the CUNY policy on Acamedic Integrity, which you are responsible for reading and understanding.
+
+All of the following are examples of cheating/plagiarism, that if detected will result in serious academic sanctions:
+
+1. Copying work from another student and handing it in as your own.
+  - including, copying a few sentences from someone else
+  - including, paraphrasing parts of someone else's work
+  - including, working together on assignments that are individual assignments
+2. Aiding cheating/plagiarism by sharing your work or giving your work to other students 
+3. Copying from a website
+4. Having an online tutor, or other person, complete an assignment for you, and handing in that work as your own
+5. Paraphrasing someone elses writing (e.g., from a website, from a textbook, from an article, from another student etc.) by substituting words and making changes and handing this work in as your own.
+6. Self-plagiarising, including handing in a previous assignment from another class as part of completing an assignment for this class
+7. All of the examples listed in the CUNY policy on Academic Integrity
+  
+In this class, when an investigation of a suspected violation of the Academic integrity policy demonstrates that a student knowingly and deliberately violated the policy, the student will receive a failing grade in this course. Following Brookyln College policy, any time an instructor detects compelling evidence of a suspected academic integrity, they must report it using the Faculty Action Report. When compelling evidence of a suspected violation occurs in this course, the following steps will be taken:
+
+  1. You will be notified by me that I have detected compelling evidence of cheating/plagiarism
+  2. I will schedule a time to meet with you
+  3. I will fill out and submit a Faculty Action report, which describes the evidence, the result of our discussion, and whether you accept the academic sanction
+  4. **The academic sanction will be that you receive a failing grade for this course**
+  5. The FAR report (Faculty Action Report) will be filed with the College's Academic Integrity Officer Mr. Patrick Kavanagh (Office of the Associate Provost for Academic Programs: 3208 Boylan Hall, 718.951.5771 fax: 718.951.4559).
+  6. All students who have a FAR report filed against them can file an appeal, and should contact Mr. Patrick Kavanagh to arrange for an appeal.
+
+## Honor Pledges
+
+Some students may be unaware that their actions constitute cheating and plagiarism, additionally some students who violate academic integrity rules may claim after the fact that they were unaware that their behavior constituted cheating and/or plagiarism. Consider instituting an honor pledge on exams and assignemts to make sure that students are aware prior to completing the assignment. An example honor pledge that can be placed at the beginning of an exam or assignment is:
+
+"I pledge my honor that I am submitting my own work, that I did not receive or give help on this individual assignment, and that I did not violate the CUNY Academic integrity rules. I understand the consequences for violating the CUNY academic integrity rules as described in the syllabus for this course. Sign here: _____________"
+
+## Talk about cheating and plagiarism in class
+
+Consider discussing cheating and plagiarism and how you will deal with these issues in your class during class time.
+
+## Turnitin and SafeAssign
+
+The blackboard system offers two services for detecting plagiarism in written work, these are turnitin and SafeAssign. You can enable SafeAssign and Turnitin on blackboard, and have students submit written work on Blackboard. Both services check the pool of submitted documents for verbatim similarities. They do not detect paraphrasing. SafeAssign checks similarities between the submitted documents for the assignment, whereas Turnitin addditionall compares the submitted documents to websites, and previously submitted documents in their database.
+
+Neither service works perfectly, or even near perfectly. For example, a students paper might return a very high similarity score  (> 90%). This could mean that 90% of their document was lifted verbatim from another single sourcce (obvious cheating), or it could be a sum total of small partial matches across many different documents. A student's paper could also return a very low similarity score (<10%), consistent with no cheating. However, further scrutiny of the reason for the match might show that one or two entire sentences have been directly copied verbatim from another students or source.
+
+Instructors have the option of letting students pre-submit their work to determine their safeassign or turnitin similarity score prior to submitting their work. This may be useful in preventing cheating and plagiarism.
+
+

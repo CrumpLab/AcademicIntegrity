@@ -1,0 +1,24 @@
+--- 
+title: "Academic Integrity Resources: Department of Psychology Brooklyn College"
+author: "Matthew Crump"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: CrumpLab/OER_bookdown
+description: "A collection of resources for academic integrity issues"
+---
+
+# Resource Documents {-}
+
+- [Faculty Action Report]("Resources\Faculty Action Report.pdf")
+- [CUNY Academic Integrity Policy]("Resources\Academic_Integrity_Policy.pdf")
+- [Faculty Obligations for Syllabus Preparation]("Resources\F16_FacultyObligations_andSyllabus.pdf")
+- [Selling Term Papers]("Resources\110901_TermPapers_Sale.pdf")
+
+
+
+
