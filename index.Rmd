@@ -18,6 +18,7 @@ description: "A collection of resources for academic integrity issues"
 - [CUNY Academic Integrity Policy](Resources\Academic_Integrity_Policy.pdf)
 - [Faculty Obligations for Syllabus Preparation](Resources\F16_FacultyObligations_andSyllabus.pdf)
 - [Selling Term Papers](Resources\110901_TermPapers_Sale.pdf)
+- [Proctoring Exams](Resources\ProctoringBrochure.pdf)
 
 ## Contributing to this resource
 
